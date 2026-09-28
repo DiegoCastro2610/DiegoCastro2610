@@ -3,7 +3,7 @@
 ###
 
 <div data-importer="image" align="center">
-  <img data-importer="image" height="200" src="https://camo.githubusercontent.com/0dd2c7f6aafb623946fdebb70ab9cea2b6d2176151d79a69de0699b7cf91daef/68747470733a2f2f67696664622e636f6d2f696d616765732f686967682f6f6c642d67616d696e672d6e6572642d73657475702d636f6f6265347861387632796e7072652e77656270"  />
+  <img data-importer="image" height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnBvMXEzZmVoaGNtbngxcnc5bW1oYnVzbjlxZ20xbWlvanowamZ1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/STr1TSDvePdwOqZyjn/giphy.gif"  />
 </div>
 
 ###
